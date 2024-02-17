@@ -62,6 +62,10 @@ body {
 .image1 {
 	display: flex;
 	
+	
+}
+.image1 article{
+	padding: 2%;
 }
 nav,
 .nav-links {
